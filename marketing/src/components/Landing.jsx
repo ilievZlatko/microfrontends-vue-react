@@ -84,14 +84,14 @@ export default function Album() {
 								<Grid item>
 									<Link to="/pricing">
 										<Button variant="contained" color="primary">
-											Pricing!
+											Pricing
 										</Button>
 									</Link>
 								</Grid>
 								<Grid item>
 									<Link to="/pricing">
 										<Button variant="outlined" color="primary">
-											Pricing!
+											Pricing
 										</Button>
 									</Link>
 								</Grid>
