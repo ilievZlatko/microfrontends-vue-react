@@ -132,7 +132,7 @@ export default function Album() {
 					Footer
 				</Typography>
 				<Typography variant="subtitle1" align="center" color="textSecondary" component="p">
-					Something here to give the footer a purpose!
+					Something here to give the footer a purpose
 				</Typography>
 				<Copyright />
 			</footer>
